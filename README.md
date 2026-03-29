@@ -9,7 +9,7 @@ The Expense Tracker is a simple command-line Python application designed to help
 
 It is lightweight, beginner-friendly, and demonstrates the use of classes, loops, and input validation in Python.
 
-Features
+Features:
 
 Add an expense with amount and category
 
@@ -21,24 +21,24 @@ Exit the program at any time
 
 Handles invalid inputs gracefully
 
-Technologies / Tools Used
+Technologies / Tools Used:
 
 Python 3
 
 Standard Python libraries (input, print, list, tuple)
 
-Steps to Install & Run
+Steps to Install & Run:
 
 Clone or download the repository:
 
-git clone:
+git clone
 
 
-Ensure you have Python 3 installed: python --version
+Ensure you have Python 3 installed.
 
 Run the program: python expense_tracker.py
 
-Instructions for Testing
+Instructions for Testing:
 
 Enter valid expenses (e.g., 2000 Shoes, 1200 Food) and check if they appear in the list.
 
@@ -50,7 +50,7 @@ Exit the program using the menu option and restart to test usability.
 
 
 
-Future Enhancements
+Future Enhancements:
 
 Add dates for each expense
 Generate category-wise summaries
