@@ -22,7 +22,7 @@ Standard Python libraries (input, print, list, tuple)
 
 Steps to Install & Run:
 Clone or download the repository:
-git clone
+git clone: https://github.com/atharva-25bec10031/introduction-to-problem-solving-project/tree/main
 Ensure you have Python 3 installed.
 Run the program: python expense_tracker.py
 
