@@ -11,25 +11,37 @@ It is lightweight, beginner-friendly, and demonstrates the use of classes, loops
 Features:
 
 Add an expense with amount and category
+
 Display all recorded expenses in a clean, numbered list
+
 Show the total amount spent
+
 Exit the program at any time
+
 Handles invalid inputs gracefully
 
 Technologies / Tools Used:
+
 Python 3
+
 Standard Python libraries (input, print, list, tuple)
 
 Steps to Install & Run:
 Clone or download the repository:
+
 git clone: https://github.com/atharva-25bec10031/introduction-to-problem-solving-project/tree/main
+
 Ensure you have Python 3 installed.
+
 Run the program: python expense_tracker.py
 
 Instructions for Testing:
 Enter valid expenses (e.g., 2000 Shoes, 1200 Food) and check if they appear in the list.
+
 Try invalid inputs (e.g., negative amount, non-numeric values) to confirm error handling.
+
 Add multiple expenses and verify the Total calculation.
+
 Exit the program using the menu option and restart to test usability.
 
 
